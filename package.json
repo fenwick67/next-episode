@@ -1,0 +1,29 @@
+{
+  "name": "next-episode",
+  "version": "1.0.0",
+  "description": "Get's the next episode for a TV show",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torrottum/next-episode.git"
+  },
+  "keywords": [
+    "tv",
+    "show",
+    "cli",
+    "cli-app"
+  ],
+  "author": "Tor Røtutm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torrottum/next-episode/issues"
+  },
+  "homepage": "https://github.com/torrottum/next-episode#readme"
+}
