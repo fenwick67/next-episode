@@ -1,5 +1,5 @@
 # Next Episode
-> Get's the next episode for a TV show
+> Gets the next episode for a TV show
 
 ## Installation
 `npm install -g next-episode`

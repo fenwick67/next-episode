@@ -1,7 +1,7 @@
 {
   "name": "next-episode",
-  "version": "1.0.2",
-  "description": "Get's the next episode for a TV show",
+  "version": "1.0.3",
+  "description": "Gets the next episode for a TV show",
   "main": "index.js",
   "bin": {
     "next-episode": "cli.js"
